@@ -1,0 +1,1 @@
+void reverseArray(int *, int);
